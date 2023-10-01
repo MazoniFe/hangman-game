@@ -127,10 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arquivo.cpp" />
     <ClCompile Include="Jogo da Forca.cpp" />
+    <ClCompile Include="palavras.cpp" />
+    <ClCompile Include="validacao.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="palavras.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="arquivo.hpp" />
+    <ClInclude Include="boas_vindas.hpp" />
+    <ClInclude Include="palavras.hpp" />
+    <ClInclude Include="validacao.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

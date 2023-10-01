@@ -1,3 +1,3 @@
-﻿  Jogo da Forca.cpp
-C:\Users\lipem\source\repos\Jogo da Forca\Jogo da Forca\Jogo da Forca.cpp(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  palavras.cpp
+C:\Users\lipem\source\repos\Jogo da Forca\Jogo da Forca\palavras.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Jogo da Forca.vcxproj -> C:\Users\lipem\source\repos\Jogo da Forca\x64\Debug\Jogo da Forca.exe
